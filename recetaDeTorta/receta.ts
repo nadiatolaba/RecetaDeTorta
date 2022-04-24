@@ -1,0 +1,10 @@
+console.log("Receta De Torta");
+console.log("Precalentar Horno");
+console.log("Batir Tres Huevos");
+console.log("Agregar Dos Tazas De Harina");
+console.log("Agregar Una Taza De Leche");
+console.log("Agregar Media Taza De Azucar");
+console.log("Agregar Esencia De Vainilla");
+console.log("Mezclar Todo Los Ingrediente");
+console.log("Colocar Los Ingrediente En Un Molde De Torta");
+console.log("Lo colocamos En El Horno a 45 min");
